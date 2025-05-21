@@ -1,0 +1,44 @@
+[
+  {
+    "id": 800576499,
+    "friendly_name": "Jarvi Beta",
+    "url": "https://google.com",
+    "type": 1,
+    "sub_type": "",
+    "keyword_type": 0,
+    "keyword_case_type": 0,
+    "keyword_value": "",
+    "http_username": "",
+    "http_password": "",
+    "port": "",
+    "interval": 300,
+    "timeout": 30,
+    "status": 2,
+    "create_datetime": 1747799186,
+    "logs": [
+      {
+        "id": 3997477668,
+        "type": 2,
+        "datetime": 1747779958,
+        "duration": 41870,
+        "reason": {
+          "code": "200",
+          "detail": "OK"
+        }
+      },
+      {
+        "id": 3997469210,
+        "type": 98,
+        "datetime": 1747779385,
+        "duration": 573,
+        "reason": {
+          "code": 98,
+          "detail": "Monitor started"
+        }
+      }
+    ],
+    "custom_uptime_ratio": "100.000-100.000-100.000",
+    "custom_down_durations": "0-0-0",
+    "lastLogTypeBeforeStartDate": []
+  }
+]
